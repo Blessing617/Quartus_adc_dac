@@ -5,7 +5,7 @@
   * @Quartus Prime  : Version 17.1.0 Lite Edition
   ******************************************************************************
   * @Description
-  * 14位ADC数模转换模块以及10位DAC模数转换模块测试程序,使用Quartus自带逻辑分析仪Sigbal Tap
+  * 10位ADC数模转换模块以及14位DAC模数转换模块测试程序,使用Quartus自带逻辑分析仪Sigbal Tap
   * 进行测试.将采样信号进行符号处理后直入直出,模拟输出.
   *
   * @Attention
