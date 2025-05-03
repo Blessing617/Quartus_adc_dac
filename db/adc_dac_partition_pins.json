@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "AD_clk",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[8]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[9]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[10]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[11]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[12]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[13]",
+					"strict" : false
+				},
+				{
+					"name" : "clk_50M",
+					"strict" : false
+				},
+				{
+					"name" : "adc_value[0]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_value[1]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_value[2]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_value[3]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_value[4]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_value[5]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_value[6]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_value[7]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_value[8]",
+					"strict" : false
+				},
+				{
+					"name" : "adc_value[9]",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

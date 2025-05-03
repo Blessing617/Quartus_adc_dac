@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Jul 26 18:11:00 2023
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : adc_dac
+Top-level Entity Name : adc_dac
+Family : Cyclone IV E
+Total logic elements : 968
+    Total combinational functions : 569
+    Dedicated logic registers : 747
+Total registers : 747
+Total pins : 28
+Total virtual pins : 0
+Total memory bits : 98,304
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
